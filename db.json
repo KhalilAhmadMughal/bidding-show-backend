@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "price": 100,
+      "description": "product's description Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "raise": 1000,
+      "raised_by": "ali raza ali raza ali raza ali raza",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 2,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "daoud aslam",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 3,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "zain raza",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 4,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2022&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "mirza ghalib",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 5,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 6,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 7,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 8,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 9,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 10,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 11,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 12,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 13,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 14,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    },
+    {
+      "id": 15,
+      "type": "product",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80",
+      "title": "Iphone",
+      "price": 100,
+      "description": "product's description",
+      "raise": 158,
+      "raised_by": "arslan",
+      "raised_at": "16 feb 2023"
+    }
+  ],
+  "carousel": [
+    {
+      "id": 1,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 2,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 3,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80"
+    },
+    {
+      "id": 4,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2022&q=80"
+    },
+    {
+      "id": 5,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2067&q=80"
+    },
+    {
+      "id": 6,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1585565804112-f201f68c48b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 7,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1545289414-1c3cb1c06238?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 8,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1518131672697-613becd4fab5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 9,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80"
+    },
+    {
+      "id": 10,
+      "type": "carousel",
+      "pic": "https://images.unsplash.com/photo-1587971051803-70bf6d4ae977?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+    }
+  ]
+}
